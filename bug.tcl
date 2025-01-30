@@ -1,0 +1,1 @@
+proc badproc {a b} { puts "[string length $a]" ; puts "[string length $b]" }
