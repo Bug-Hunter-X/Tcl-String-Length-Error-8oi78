@@ -1,0 +1,1 @@
+proc goodproc {a b} { if {[string is string $a] && [string is string $b]} { puts "[string length $a]" ; puts "[string length $b]" } else { puts "Error: Inputs must be strings" } }
