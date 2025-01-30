@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error in Tcl: improper handling of the string length command.  The script attempts to calculate the length of variables that may not always be strings, leading to an error.  The solution demonstrates robust error handling.
